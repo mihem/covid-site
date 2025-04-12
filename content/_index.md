@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: NeuroCOVID App
+      title: Welcome to the Neuro-COVID dataset.
       image:
         filename: covid_scheme.jpg
       text:
