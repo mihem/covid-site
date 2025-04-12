@@ -16,7 +16,7 @@ sections:
     content:
       title:
       text: |
-        This is the corresponding website to the publication [Neurological Manifestations of COVID-19 Feature T Cell Exhaustion and Dedifferentiated Monocytes in Cerebrospinal Fluid](https://doi.org/10.1016/j.immuni.2020.12.011) by Heming et al., Immunity 2021.
+        This is the corresponding website to the publication [Neurological Manifestations of COVID-19 Feature T Cell Exhaustion and Dedifferentiated Monocytes in Cerebrospinal Fluid](https://doi.org/10.1016/j.immuni.2020.12.011) by Heming et al., *Immunity* 2021.
         We present a single cell sequencing dataset of cerebrospinal fluid of patients suffering from COVID-19 with neurological manifestations.
         The raw sequencing are available via [GEO GSE163005](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE163005).
 
