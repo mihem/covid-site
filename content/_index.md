@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Welcome to the Neuro-COVID dataset.
+      title: Welcome to the <br> Neuro-COVID dataset.
       image:
         filename: covid_scheme.jpg
       text:
