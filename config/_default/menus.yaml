@@ -8,7 +8,7 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Datasets
+  - name: Dataset
     url: /#datasets
     weight: 20
   - name: Contact
