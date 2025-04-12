@@ -23,7 +23,7 @@ sections:
   - block: collection
     id: datasets
     content:
-      title: Datasets
+      title: Dataset
       subtitle:
       text:
       count: 5
